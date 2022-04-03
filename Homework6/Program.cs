@@ -1,21 +1,25 @@
 ﻿
-// Пользователь вводит с клавиатуры M чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь.
+// Задача 1: Пользователь вводит с клавиатуры M чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь.
 
-// void Num(int M)
-// {
-//     int result = 0;
-//     for (int i = 1; i < M; i++)
-//     {
-//         Console.Write($"Введите {i} число: ");
-//         int n = Convert.ToInt32(Console.ReadLine());
-//         if (n > 0) result++;
-//     }
-//     Console.WriteLine($"Число введенных Вами натуральных чисел: {result}.");
-// }
+void Num(int M)
+{
+    int result = 0;
+    for (int i = 0; i < M; i++)
+    {
+        Console.Write($"Введите {i} число: ");
+        int n = Convert.ToInt32(Console.ReadLine());
+        if (n > 0) result++;
+    }
+    Console.WriteLine($"Количество натуральных чисел:{result}.");
+}
 
-// Console.Write("Укажите сколько чисел Вы хотите ввести: ");
-// int value = Convert.ToInt32(Console.ReadLine());
-// Num(value);
+Console.Write("Введите количество чисел: ");
+int value = Convert.ToInt32(Console.ReadLine());
+Num(value);
+
+
+ // Задача 2: Пользователь вводит с клавиатуры кол-во строк и столбцов для массива. 
+// Вывести массив в виде матрицы, создав "рамку" из единиц, а внутреннюю зону матрицы заполнить нулями.
 
 // void Array(int[,] massiv)
 // {
