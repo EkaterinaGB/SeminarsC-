@@ -1,0 +1,15 @@
+C:\Users\Екатерина\Desktop\SeminarsC#\Homework7\obj\Debug\net6.0\Homework7.csproj.AssemblyReference.cache
+C:\Users\Екатерина\Desktop\SeminarsC#\Homework7\obj\Debug\net6.0\Homework7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Екатерина\Desktop\SeminarsC#\Homework7\obj\Debug\net6.0\Homework7.AssemblyInfoInputs.cache
+C:\Users\Екатерина\Desktop\SeminarsC#\Homework7\obj\Debug\net6.0\Homework7.AssemblyInfo.cs
+C:\Users\Екатерина\Desktop\SeminarsC#\Homework7\obj\Debug\net6.0\Homework7.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\SeminarsC#\Homework7\bin\Debug\net6.0\Homework7.exe
+C:\Users\Екатерина\Desktop\SeminarsC#\Homework7\bin\Debug\net6.0\Homework7.deps.json
+C:\Users\Екатерина\Desktop\SeminarsC#\Homework7\bin\Debug\net6.0\Homework7.runtimeconfig.json
+C:\Users\Екатерина\Desktop\SeminarsC#\Homework7\bin\Debug\net6.0\Homework7.dll
+C:\Users\Екатерина\Desktop\SeminarsC#\Homework7\bin\Debug\net6.0\Homework7.pdb
+C:\Users\Екатерина\Desktop\SeminarsC#\Homework7\obj\Debug\net6.0\Homework7.dll
+C:\Users\Екатерина\Desktop\SeminarsC#\Homework7\obj\Debug\net6.0\refint\Homework7.dll
+C:\Users\Екатерина\Desktop\SeminarsC#\Homework7\obj\Debug\net6.0\Homework7.pdb
+C:\Users\Екатерина\Desktop\SeminarsC#\Homework7\obj\Debug\net6.0\Homework7.genruntimeconfig.cache
+C:\Users\Екатерина\Desktop\SeminarsC#\Homework7\obj\Debug\net6.0\ref\Homework7.dll
