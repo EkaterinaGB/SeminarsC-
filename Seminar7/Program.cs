@@ -8,16 +8,16 @@
 //     {
 //         for (int j = 0; j < n; j++)
 //         {
-//             matrix[i, j] = new Random().Next(-99,100);
+//             matrix[i, j] = new Random().Next(-99, 100);
 //             Console.Write($"{matrix[i, j]} ");
 //         }
-//     Console.WriteLine();
+//         Console.WriteLine();
 //     }
 // }
 // NewRandomArray(2, 6);
 // // 2. Задайте двумерный массив размера m на n, каждый элемент в массиве находится по формуле: Aₘₙ = m+n. Выведите полученный массив на экран.
 
-// void NewRandomArray(int m, int n)
+// void FindElementInArray(int m, int n)
 // {
 //     int[,] matrix = new int[m, n];
 
@@ -28,14 +28,14 @@
 //             matrix[i, j] = i + j;
 //             Console.Write($"{matrix[i, j]} ");
 //         }
-//     Console.WriteLine();
+//         Console.WriteLine();
 //     }
 // }
-// NewRandomArray(2, 6);
+// FindElementInArray(2, 6);
 
 // 3. Задайте двумерный массив. Найдите элементы, у которых оба индекса чётные, и замените эти элементы на их квадраты.
 
-// void NewRandomArray(int m, int n)
+// void FindBothPositiveElement(int m, int n)
 // {
 //     int[,] matrix = new int[m, n];
 
@@ -54,18 +54,18 @@
 //         Console.WriteLine();
 //     }
 // }
-// NewRandomArray(3, 3);
+// FindBothPositiveElement(3, 3);
 
 // 4. Задайте двумерный массив. Найдите сумму элементов, находящихся на главной диагонали (с индексами (0,0); (1;1) и т.д.
 
-// void NewRandomArray(int m, int n)
+// void SumOfElementOnMainDiagonal(int m)
 // {
 //     int sum = 0;
-//     int[,] matrix = new int[m, n];
+//     int[,] matrix = new int[m, m];
 
 //     for (int i = 0; i < m; i++)
 //     {
-//         for (int j = 0; j < n; j++)
+//         for (int j = 0; j < m; j++)
 //         {
 //             matrix[i, j] = new Random().Next(0, 10);
 //             if (i == j)
@@ -78,4 +78,4 @@
 //     }
 //     Console.WriteLine("Сумма элементов по диагонали равна: " + sum);
 // }
-// NewRandomArray(3, 3);
+// SumOfElementOnMainDiagonal(3);
