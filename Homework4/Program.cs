@@ -32,7 +32,7 @@ int Sum(int N)
     int sum = 0;
     while (N >= 1)
     {
-        int B = N % 10;
+       int B = N % 10;
         sum = sum + B;
         N = N / 10;
     }
