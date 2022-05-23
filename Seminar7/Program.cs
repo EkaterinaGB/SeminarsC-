@@ -79,3 +79,5 @@
 //     Console.WriteLine("Сумма элементов по диагонали равна: " + sum);
 // }
 // SumOfElementOnMainDiagonal(3);
+
+
